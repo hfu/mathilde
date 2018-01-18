@@ -1,0 +1,6 @@
+{
+  "tiles": ["https://globalmaps-vt.github.io/gmjp22vt/{z}/{x}/{y}.mvt"],
+  "attribution": "Geospatial Information Authority of Japan (GSI)",
+  "maxzoom": 9,
+  "tilejson": "2.2.0"
+}
